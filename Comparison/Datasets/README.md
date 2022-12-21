@@ -9,6 +9,13 @@ This folder contains all the curated gene sets from the different maternal healt
 - CCDB.tsv: File containing the gene symbols of the gene set from https://webs.iiitd.edu.in/raghava/ccdb/stat.php
 - EPEK.tsv - File containing the gene symbols of the gene set from https://cb.imsc.res.in/epek
 
+### The following files are from Barbitoff <i>et al. </i> 2020:
+
+- GestationalDiabetes.csv: File containing the gene symbols of the gene set of gestational diabetes.
+- PlacentalAbruption.csv: File containing the gene symbols of the gene set of placental abruption.
+- Preeclampsia.csv: File containing the gene symbols of the gene set of preeclampsia
+- PretermBirth.csv: File containing the gene symbols of the gene set of preterm birth
+
 #### References
 
 [1] M. Sharma, R.S. Barai, I. Kundu, S. Bhaye, K. Pokar, S. Idicula-Thomas, PCOSKBR2: a database of genes, diseases, pathways, and networks associated with polycystic ovary syndrome, Sci Rep. 10 (2020) 14738. https://doi.org/10.1038/s41598-020-71418-8.
@@ -21,11 +28,5 @@ This folder contains all the curated gene sets from the different maternal healt
 
 [5] A. Natarajan, N. Chivukula, G.B. Dhanakoti, A.K. Sahoo, J. Ravichandran, A. Samal, EPEK: creation and analysis of an Ectopic Pregnancy Expression Knowledgebase, (2022). https://doi.org/10.1101/2022.12.20.521279.
 
-### The following files are from Barbitoff <i>et al. </i> 2020:
+[6] Y.A. Barbitoff, A.A. Tsarev, E.S. Vashukova, E.M. Maksiutenko, L.V. Kovalenko, L.D. Belotserkovtseva, A.S. Glotov, A Data-Driven Review of the Genetic Factors of Pregnancy Complications, IJMS. 21 (2020) 3384. https://doi.org/10.3390/ijms21093384.
 
-Paper: <br>
-Barbitoff, Y.A.; Tsarev, A.A.; Vashukova, E.S.; Maksiutenko, E.M.; Kovalenko, L.V.; Belotserkovtseva, L.D.; Glotov, A.S. A Data-Driven Review of the Genetic Factors of Pregnancy Complications. Int. J. Mol. Sci. 2020, 21, 3384. https://doi.org/10.3390/ijms21093384
-- GestationalDiabetes.csv: File containing the gene symbols of the gene set of gestational diabetes.
-- PlacentalAbruption.csv: File containing the gene symbols of the gene set of placental abruption.
-- Preeclampsia.csv: File containing the gene symbols of the gene set of preeclampsia
-- PretermBirth.csv: File containing the gene symbols of the gene set of preterm birth
