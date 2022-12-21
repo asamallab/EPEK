@@ -1,0 +1,45 @@
+Gene_Symbol	Aliases	Entrez_Gene_ID	Gene_Name
+ADRB3	BETA3AR	155	Adrenoceptor beta 3
+AR	"AIS, AR8, DHTR, HUMARA, HYSP1, KD, NR3C4, SBMA, SMAX1, TFM"	367	Androgen receptor
+CDKL5	"CFAP247, EIEE2, ISSX, STK9"	6792	Cyclin dependent kinase like 5
+CYP19A1	"ARO, ARO1, CPV1, CYAR, CYP19, CYPXIX, P-450AROM"	1588	Cytochrome P450 family 19 subfamily A member 1
+CYP21A2	"CA21H, CAH1, CPS1, CYP21, CYP21B, P450c21B"	1589	Cytochrome P450 family 21 subfamily A member 2
+DLK1	"DLK, DLK-1, Delta1, FA1, PREF1, Pref-1, ZOG, pG2"	8788	Delta like non-canonical Notch ligand 1
+ESR1	"ER, ESR, ESRA, ESTRR, Era, NR3A1"	2099	Estrogen receptor 1
+FMR1	"FMRP, FRAXA, POF, POF1"	2332	FMRP translational regulator 1
+FSHB	HH24	2488	Follicle stimulating hormone subunit beta
+FSHR	"FSHR1, FSHRO, LGR1, ODG1"	2492	Follicle stimulating hormone receptor
+GHR	"GHBP, GHIP"	2690	Growth hormone receptor
+GNAS	"AHO, C20orf45, GNAS1, GPSA, GSA, GSP, NESP, PITA3, POH, SCG6, SgVI"	2778	GNAS complex locus
+GNRH1	"GNRH, GRH, LHRH, LNRH"	2796	Gonadotropin releasing hormone 1
+GRM1	"GPRC1A, MGLU1, MGLUR1, PPP1R85, SCA44, SCAR13"	2911	Glutamate metabotropic receptor 1
+HSD3B2	"HSD3B, HSDB, SDR11E2"	3284	"Hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2"
+IGF1	"IGF, IGF-I, IGFI, MGF"	3479	Insulin like growth factor 1
+IGF1R	"CD221, IGFIR, IGFR, JTK13"	3480	Insulin like growth factor 1 receptor
+INS	"IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10, PNDM4"	3630	Insulin
+INSM1	"IA-1, IA1"	3642	INSM transcriptional repressor 1
+IRS1	HIRS-1	3667	Insulin receptor substrate 1
+KISS1	"HH13, KiSS-1"	3814	KiSS-1 metastasis suppressor
+KISS1R	"AXOR12, CPPB1, GPR54, HH8, HOT7T175, KISS-1R"	84634	KISS1 receptor
+LHB	"CGB4, HH23, LSH-B, LSH-beta"	3972	Luteinizing hormone subunit beta
+LHCGR	"HHG, LCGR, LGR2, LH/CG-R, LH/CGR, LHR, LHRHR, LSH-R, ULG5"	3973	Luteinizing hormone/choriogonadotropin receptor
+LIN28B	CSDD2	389421	Lin-28 homolog B
+MC4R	BMIQ20	4160	Melanocortin 4 receptor
+MECP2	"AUTSX3, MRX16, MRX79, MRXS13, MRXSL, PPMX, RS, RTS, RTT"	4204	Methyl-CpG binding protein 2
+MKRN3	"CPPB2, D15S9, RNF63, ZFP127, ZNF127"	7681	Makorin ring finger protein 3
+NOTCH1	"AOS5, AOVD1, TAN1, hN1"	4851	Notch receptor 1
+NPVF	"C7orf9, RFRP"	64111	Neuropeptide VF precursor
+NPY1R	"NPY1-R, NPYR"	4886	Neuropeptide Y receptor Y1
+NR0B1	"AHC, AHCH, AHX, DAX-1, DAX1, DSS, GTD, HHG, NROB1, SRXY2"	190	Nuclear receptor subfamily 0 group B member 1
+NR3C1	"GCCR, GCR, GCRST, GR, GRL"	2908	Nuclear receptor subfamily 3 group C member 1
+PAPSS2	"ATPSK2, BCYM4, SK2"	9060	
+POU1F1	"CPHD1, GHF-1, PIT1, POU1F1a, Pit-1"	5449	POU class 1 homeobox 1
+PPARG	"CIMT1, GLM1, NR1C3, PPARG1, PPARG2, PPARG5, PPARgamma"	5468	Peroxisome proliferator activated receptor gamma
+PRKAR1A	"ACRDYS1, ADOHR, CAR, CNC, CNC1, PKR1, PPNAD1, PRKAR1, TSE1"	5573	Protein kinase cAMP-dependent type I regulatory subunit alpha
+PROKR2	"GPR73L1, GPR73b, GPRg2, HH3, KAL3, PKR2, dJ680N4.3"	128674	Prokineticin receptor 2
+SMAD4	"DPC4, JIP, MADH4, MYHRS"	4089	SMAD family member 4
+TAC3	"HH10, LncZBTB39, NK3, NKB, NKNB, PRO1155, ZNEUROK1"	6866	Tachykinin precursor 3
+TACR3	"HH11, NK-3R, NK3, NK3R, NKR, TAC3R, TAC3RL"	6870	Tachykinin receptor 3
+TNFAIP6	"TSG-6, TSG6"	7130	TNF alpha induced protein 6
+VDR	"NR1I1, PPP1R163"	7421	Vitamin D receptor
+VSNL1	"HLP3, HPCAL3, HUVISL1, VILIP, VILIP-1"	7447	Visinin like 1
