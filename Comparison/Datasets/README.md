@@ -9,7 +9,7 @@ This folder contains all the curated gene sets from the different maternal healt
 - CCDB.tsv: File containing the gene symbols of the gene set from https://webs.iiitd.edu.in/raghava/ccdb/stat.php
 - EPEK.tsv - File containing the gene symbols of the gene set from https://cb.imsc.res.in/epek
 
-### The following files are from Barbitoff <i>et al. </i> 2020:
+### The following files are from Barbitoff <i>et al.,</i> 2020:
 
 - GestationalDiabetes.csv: File containing the gene symbols of the gene set of gestational diabetes.
 - PlacentalAbruption.csv: File containing the gene symbols of the gene set of placental abruption.
