@@ -6,15 +6,15 @@ Ananya Natarajan<sup>#</sup>, Nikhil Chivukula<sup>#</sup>, Gokul Balaji Dhanako
 (<sup>#</sup> Joint First Authors, * Corresponding Authors)
 
 ## Repository Organization
-This repository is organized into two folders, EnrichmentAnalysis and Comparison
+This repository is organized into two folders, [EnrichmentAnalysis](https://github.com/asamallab/EPEK/tree/master/EnrichmentAnalysis) and [Comparison](https://github.com/asamallab/EPEK/tree/master/Comparison)
 
-### Enrichment Analysis:
+### [Enrichment Analysis](https://github.com/asamallab/EPEK/tree/master/EnrichmentAnalysis):
 This folder contains the code to plot for:
 - GO Term enrichment analysis (Figure 3)
 - Pathway enrichment analysis (Figure 4)
 - Disease enrichment analysis (Figure 7)
 
-### Comparison:
+### [Comparison](https://github.com/asamallab/EPEK/tree/master/Comparison):
 This folder contains the code to generate UpSet plot (Figure 6).
 
 Each folder has additional README files explaining the contents within them.
