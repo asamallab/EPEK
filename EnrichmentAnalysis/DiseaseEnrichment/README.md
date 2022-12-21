@@ -1,6 +1,6 @@
 # Disease Enrichment analysis using the DisGeNET v7.0 (2020)
 
-Please download the **DisGeNET SQLite 2020 - v7.0** from https://www.disgenet.org/downloads.
+Please download the **DisGeNET SQLite 2020 - v7.0** from https://www.disgenet.org/downloads to execute the following codes.
 
 This folder contains the code for plotting the Figure 7 from the paper.
 
