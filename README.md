@@ -2,7 +2,7 @@
 
 This repository provides the datasets and codes associated with the following manuscript:
 
-Ananya Natarajan<sup>#</sup>, Nikhil Chivukula<sup>#</sup>, Gokul Balaji Dhanakoti, Ajaya Kumar Sahoo, Janani Ravichandran*, Areejit Samal*, <i>[EPEK: creation and analysis of an Ectopic Pregnancy Expression Knowledgebase](https://www.biorxiv.org/content/10.1101/2022.12.20.521279v1)</i> bioRxiv 2022.12.20.521279.<br>
+Ananya Natarajan<sup>#</sup>, Nikhil Chivukula<sup>#</sup>, Gokul Balaji Dhanakoti, Ajaya Kumar Sahoo, Janani Ravichandran*, Areejit Samal*, <i>[EPEK: creation and analysis of an Ectopic Pregnancy Expression Knowledgebase](https://www.sciencedirect.com/science/article/pii/S1476927123000579)</i>, Computational Biology and Chemistry 104: 107866.<br>
 (<sup>#</sup> Joint First Authors, * Corresponding Authors)
 
 ## Repository Organization
@@ -28,7 +28,7 @@ UpSetR, SQLite, readxl, writexl
 
 ## References
 
-[1] A. Natarajan, N. Chivukula, G.B. Dhanakoti, A.K. Sahoo, J. Ravichandran, A. Samal, EPEK: creation and analysis of an Ectopic Pregnancy Expression Knowledgebase, (2022). https://doi.org/10.1101/2022.12.20.521279.
+[1] A. Natarajan, N. Chivukula, G.B. Dhanakoti, A.K. Sahoo, J. Ravichandran, A. Samal, EPEK: creation and analysis of an Ectopic Pregnancy Expression Knowledgebase, (2023). https://doi.org/10.1016/j.compbiolchem.2023.107866.
 
 [2] S. Joseph, S.D. Mahale, Endometriosis Knowledgebase: a gene-based resource on endometriosis, Database. 2019 (2019) baz062. https://doi.org/10.1093/database/baz062.
 
