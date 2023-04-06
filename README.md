@@ -2,7 +2,7 @@
 
 This repository provides the datasets and codes associated with the following manuscript:
 
-Ananya Natarajan<sup>#</sup>, Nikhil Chivukula<sup>#</sup>, Gokul Balaji Dhanakoti, Ajaya Kumar Sahoo, Janani Ravichandran*, Areejit Samal*, <i>[EPEK: creation and analysis of an Ectopic Pregnancy Expression Knowledgebase](https://www.sciencedirect.com/science/article/pii/S1476927123000579)</i>, Computational Biology and Chemistry 104: 107866.<br>
+Ananya Natarajan<sup>#</sup>, Nikhil Chivukula<sup>#</sup>, Gokul Balaji Dhanakoti, Ajaya Kumar Sahoo, Janani Ravichandran*, Areejit Samal*, <i>[EPEK: creation and analysis of an Ectopic Pregnancy Expression Knowledgebase](https://www.sciencedirect.com/science/article/pii/S1476927123000579)</i>, Computational Biology and Chemistry 104: 107866 (2023).<br>
 (<sup>#</sup> Joint First Authors, * Corresponding Authors)
 
 ## Repository Organization
