@@ -1,5 +1,9 @@
 # EPEK
 
+## Contributors:
+
+
+## Reference:
 This repository provides the datasets and codes associated with the following research article:
 
 Ananya Natarajan<sup>#</sup>, Nikhil Chivukula<sup>#</sup>, Gokul Balaji Dhanakoti, Ajaya Kumar Sahoo, Janani Ravichandran*, Areejit Samal*, [<i>EPEK: creation and analysis of an Ectopic Pregnancy Expression Knowledgebase</i>](https://www.sciencedirect.com/science/article/pii/S1476927123000579), Computational Biology and Chemistry, 104:107866, 2023.<br>
