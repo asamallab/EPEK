@@ -1,7 +1,7 @@
 # EPEK
 
 ## Contributors:
-
+- [Nikhil Chivukula](https://github.com/NikC99) 
 
 ## Reference:
 This repository provides the datasets and codes associated with the following research article:
