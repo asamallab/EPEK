@@ -1,0 +1,60 @@
+Term	KEGGID	KEGGPathwayMainClass	KEGGPathwaySubClass
+Signaling pathways regulating pluripotency of stem cells	hsa04550	Cellular Processes	Cellular community - eukaryotes
+Focal adhesion	hsa04510	Cellular Processes	Cellular community - eukaryotes
+VEGF signaling pathway	hsa04370	Environmental Information Processing	Signal transduction
+TGF-beta signaling pathway	hsa04350	Environmental Information Processing	Signal transduction
+NF-kappa B signaling pathway	hsa04064	Environmental Information Processing	Signal transduction
+Ras signaling pathway	hsa04014	Environmental Information Processing	Signal transduction
+HIF-1 signaling pathway	hsa04066	Environmental Information Processing	Signal transduction
+JAK-STAT signaling pathway	hsa04630	Environmental Information Processing	Signal transduction
+MAPK signaling pathway	hsa04010	Environmental Information Processing	Signal transduction
+Rap1 signaling pathway	hsa04015	Environmental Information Processing	Signal transduction
+PI3K-Akt signaling pathway	hsa04151	Environmental Information Processing	Signal transduction
+Viral protein interaction with cytokine and cytokine receptor	hsa04061	Environmental Information Processing	Signaling molecules and interaction
+Neuroactive ligand-receptor interaction	hsa04080	Environmental Information Processing	Signaling molecules and interaction
+Cytokine-cytokine receptor interaction	hsa04060	Environmental Information Processing	Signaling molecules and interaction
+Transcriptional misregulation in cancer	hsa05202	Human Diseases	Cancer: overview
+Proteoglycans in cancer	hsa05205	Human Diseases	Cancer: overview
+Chemical carcinogenesis	map05207	Human Diseases	Cancer: overview
+Pathways in cancer	hsa05200	Human Diseases	Cancer: overview
+Thyroid cancer	hsa05216	Human Diseases	Cancer: specific types
+Non-small cell lung cancer	hsa05223	Human Diseases	Cancer: specific types
+Small cell lung cancer	hsa05222	Human Diseases	Cancer: specific types
+Hypertrophic cardiomyopathy	hsa05410	Human Diseases	Cardiovascular disease
+Dilated cardiomyopathy	hsa05414	Human Diseases	Cardiovascular disease
+Fluid shear stress and atherosclerosis	hsa05418	Human Diseases	Cardiovascular disease
+Lipid and atherosclerosis	hsa05417	Human Diseases	Cardiovascular disease
+Type I diabetes mellitus	hsa04940	Human Diseases	Endocrine and metabolic disease
+AGE-RAGE signaling pathway in diabetic complications	hsa04933	Human Diseases	Endocrine and metabolic disease
+Allograft rejection	hsa05330	Human Diseases	Immune disease
+Autoimmune thyroid disease	hsa05320	Human Diseases	Immune disease
+Asthma	hsa05310	Human Diseases	Immune disease
+Graft-versus-host disease	hsa05332	Human Diseases	Immune disease
+Inflammatory bowel disease	hsa05321	Human Diseases	Immune disease
+Rheumatoid arthritis	hsa05323	Human Diseases	Immune disease
+Legionellosis	hsa05134	Human Diseases	Infectious disease: bacterial
+Pertussis	hsa05133	Human Diseases	Infectious disease: bacterial
+Staphylococcus aureus infection	hsa05150	Human Diseases	Infectious disease: bacterial
+Yersinia infection	hsa05135	Human Diseases	Infectious disease: bacterial
+Salmonella infection	hsa05132	Human Diseases	Infectious disease: bacterial
+Tuberculosis	hsa05152	Human Diseases	Infectious disease: bacterial
+African trypanosomiasis	hsa05143	Human Diseases	Infectious disease: parasitic
+Chagas disease	hsa05142	Human Diseases	Infectious disease: parasitic
+Malaria	hsa05144	Human Diseases	Infectious disease: parasitic
+Leishmaniasis	hsa05140	Human Diseases	Infectious disease: parasitic
+Toxoplasmosis	hsa05145	Human Diseases	Infectious disease: parasitic
+Amoebiasis	hsa05146	Human Diseases	Infectious disease: parasitic
+Hepatitis C	hsa05160	Human Diseases	Infectious disease: viral
+Kaposi sarcoma-associated herpesvirus infection	hsa05167	Human Diseases	Infectious disease: viral
+Epstein-Barr virus infection	hsa05169	Human Diseases	Infectious disease: viral
+Coronavirus disease	map05171	Human Diseases	Infectious disease: viral
+Human cytomegalovirus infection	hsa05163	Human Diseases	Infectious disease: viral
+Influenza A	hsa05164	Human Diseases	Infectious disease: viral
+Thyroid hormone signaling pathway	hsa04919	Organismal Systems	Endocrine system
+"Parathyroid hormone synthesis, secretion and action"	hsa04928	Organismal Systems	Endocrine system
+Intestinal immune network for IgA production	hsa04672	Organismal Systems	Immune system
+Toll-like receptor signaling pathway	hsa04620	Organismal Systems	Immune system
+IL-17 signaling pathway	hsa04657	Organismal Systems	Immune system
+Chemokine signaling pathway	hsa04062	Organismal Systems	Immune system
+Hematopoietic cell lineage	hsa04640	Organismal Systems	Immune system
+Th17 cell differentiation	hsa04659	Organismal Systems	Immune system

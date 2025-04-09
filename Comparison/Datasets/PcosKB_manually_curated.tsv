@@ -1,0 +1,563 @@
+Gene Symbol	Entrez ID	Gene Name
+ABCA1	19	ATP binding cassette subfamily A member 1
+ACACA	31	Acetyl-CoA carboxylase alpha
+ACE	1636	Angiotensin I converting enzyme
+ACTA2	59	"Actin alpha 2, smooth muscle"
+ACTB	60	Actin beta
+ACTG1	71	Actin gamma 1
+ACTG2	72	"Actin gamma 2, smooth muscle"
+ACVR1	90	Activin A receptor type 1
+ADA	100	Adenosine deaminase
+ADAM12	8038	ADAM metallopeptidase domain 12
+ADAMTS1	9510	ADAM metallopeptidase with thrombospondin type 1 motif 1
+ADAMTS19	171019	ADAM metallopeptidase with thrombospondin type 1 motif 19
+ADIPOQ	9370	"Adiponectin, C1Q and collagen domain containing"
+ADIPOR1	51094	Adiponectin receptor 1
+ADIPOR2	79602	Adiponectin receptor 2
+ADM	133	Adrenomedullin
+ADRB2	154	Adrenoceptor beta 2
+ADRB3	155	Adrenoceptor beta 3
+AGER	177	Advanced glycosylation end-product specific receptor
+AGT	183	Angiotensinogen
+AIFM1	9131	Apoptosis inducing factor mitochondria associated 1
+AKR1C2	1646	Aldo-keto reductase family 1 member C2
+AKR1C3	8644	Aldo-keto reductase family 1 member C3
+AKT1	207	AKT serine/threonine kinase 1
+AKT2	208	AKT serine/threonine kinase 2
+AKT3	10000	AKT serine/threonine kinase 3
+ALDH1A3	220	Aldehyde dehydrogenase 1 family member A3
+ALDH3A2	224	Aldehyde dehydrogenase 3 family member A2
+ALOX15	246	Arachidonate 15-lipoxygenase
+AMH	268	Anti-Mullerian hormone
+AMHR2	269	Anti-Mullerian hormone receptor type 2
+ANGPTL1	9068	Angiopoietin like 1
+ANGPTL2	23452	Angiopoietin like 2
+ANGPTL4	51129	Angiopoietin like 4
+ANGPTL8	55908	Angiopoietin like 8
+ANXA2	302	Annexin A2
+ANXA5	308	Annexin A5
+AOPEP	84909	Aminopeptidase O (putative)
+APC	324	APC regulator of WNT signaling pathway
+APLN	8862	Apelin
+APLNR	187	Apelin receptor
+APOA1	335	Apolipoprotein A1
+APOA4	337	Apolipoprotein A4
+APOB	338	Apolipoprotein B
+APOC1	341	Apolipoprotein C1
+APOE	348	Apolipoprotein E
+APOLD1	81575	Apolipoprotein L domain containing 1
+APPL1	26060	"Adaptor protein, phosphotyrosine interacting with PH domain and leucine zipper 1"
+AQP9	366	Aquaporin 9
+AR	367	Androgen receptor
+ARHGAP4	393	Rho GTPase activating protein 4
+ARHGAP9	64333	Rho GTPase activating protein 9
+ARID4B	51742	AT-rich interaction domain 4B
+ARNTL	406	Aryl hydrocarbon receptor nuclear translocator like
+ATF4	468	Activating transcription factor 4
+ATHS	470	Atherosclerosis susceptibility (lipoprotein associated)
+ATP5F1B	506	ATP synthase F1 subunit beta
+B4GALT6	9331	"Beta-1,4-galactosyltransferase 6"
+BAX	581	"BCL2 associated X, apoptosis regulator"
+BCL2A1	597	BCL2 related protein A1
+BDNF	627	Brain derived neurotrophic factor
+BGLAP	632	Bone gamma-carboxyglutamate protein
+BGN	633	Biglycan
+BMP15	9210	Bone morphogenetic protein 15
+BNIP3	664	BCL2 interacting protein 3
+BRCA1	672	BRCA1 DNA repair associated
+C3	718	Complement C3
+C4A	720	Complement C4A (Rodgers blood group)
+C4BPA	722	Complement component 4 binding protein alpha
+C9	735	Complement C9
+CALCA	796	Calcitonin related polypeptide alpha
+CALR	811	Calreticulin
+CAPG	822	"Capping actin protein, gelsolin like"
+CAPN10	11132	Calpain 10
+CAPZA1	829	Capping actin protein of muscle Z-line subunit alpha 1
+CASP9	842	Caspase 9
+CASR	846	Calcium sensing receptor
+CCK	885	Cholecystokinin
+CCL2	6347	C-C motif chemokine ligand 2
+CCN1	3491	Cellular communication network factor 1
+CD14	929	CD14 molecule
+CD163	9332	CD163 molecule
+CD28	940	CD28 molecule
+CD36	948	CD36 molecule
+CD4	920	CD4 molecule
+CD40LG	959	CD40 ligand
+CD74	972	CD74 molecule
+CD9	928	CD9 molecule
+CDX2	1045	Caudal type homeobox 2
+CEBPB	1051	CCAAT enhancer binding protein beta
+CFL1	1072	Cofilin 1
+CGA	1081	"Glycoprotein hormones, alpha polypeptide"
+CGB5	93659	Chorionic gonadotropin subunit beta 5
+CHGA	1113	Chromogranin A
+CHI3L1	1116	Chitinase 3 like 1
+CHPT1	56994	Choline phosphotransferase 1
+CLOCK	9575	Clock circadian regulator
+COL8A1	1295	Collagen type VIII alpha 1 chain
+COMT	1312	Catechol-O-methyltransferase
+CPB2	1361	Carboxypeptidase B2
+CPT1A	1374	Carnitine palmitoyltransferase 1A
+CPT2	1376	Carnitine palmitoyltransferase 2
+CPZ	8532	Carboxypeptidase Z
+CR1	1378	Complement C3b/C4b receptor 1 (Knops blood group)
+CRH	1392	Corticotropin releasing hormone
+CRP	1401	C-reactive protein
+CTBP1-AS	285463	CTBP1 antisense RNA
+CTF1	1489	Cardiotrophin 1
+CTLA4	1493	Cytotoxic T-lymphocyte associated protein 4
+CTSD	1509	Cathepsin D
+CXCL10	3627	C-X-C motif chemokine ligand 10
+CXCL8	3576	C-X-C motif chemokine ligand 8
+CYBB	1536	Cytochrome b-245 beta chain
+CYP11A1	1583	Cytochrome P450 family 11 subfamily A member 1
+CYP11B2	1585	Cytochrome P450 family 11 subfamily B member 2
+CYP17A1	1586	Cytochrome P450 family 17 subfamily A member 1
+CYP19A1	1588	Cytochrome P450 family 19 subfamily A member 1
+CYP1A1	1543	Cytochrome P450 family 1 subfamily A member 1
+CYP1B1	1545	Cytochrome P450 family 1 subfamily B member 1
+CYP21A2	1589	Cytochrome P450 family 21 subfamily A member 2
+CYP2R1	120227	Cytochrome P450 family 2 subfamily R member 1
+CYP3A7	1551	Cytochrome P450 family 3 subfamily A member 7
+DACT1	51339	Dishevelled binding antagonist of beta catenin 1
+DENND1A	57706	DENN domain containing 1A
+DHRS9	10170	Dehydrogenase/reductase 9
+DIRAS3	9077	DIRAS family GTPase 3
+DKK 1.00	22943	Dickkopf WNT signaling pathway inhibitor 1
+DKK 3.00	27122	Dickkopf WNT signaling pathway inhibitor 3
+DNAJB1	3337	DnaJ heat shock protein family (Hsp40) member B1
+DNAJB14	79982	DnaJ heat shock protein family (Hsp40) member B14
+DPP4	1803	Dipeptidyl peptidase 4
+DRAM2	128338	DNA damage regulated autophagy modulator 2
+DRD2	1813	Dopamine receptor D2
+DUSP1	1843	Dual specificity phosphatase 1
+EBF2	64641	EBF transcription factor 2
+EBI3	10148	Epstein-Barr virus induced 3
+EDN1	1906	Endothelin 1
+EGFR	1956	Epidermal growth factor receptor
+ENHO	375704	Energy homeostasis associated
+ENPP1	5167	Ectonucleotide pyrophosphatase/phosphodiesterase 1
+EPHX1	2052	Epoxide hydrolase 1
+ERBB2	2064	Erb-b2 receptor tyrosine kinase 2
+ERBB4	2066	Erb-b2 receptor tyrosine kinase 4
+ESR1	2099	Estrogen receptor 1
+ESR2	2100	Estrogen receptor 2
+F13A1	2162	Coagulation factor XIII A chain
+F3	2152	"Coagulation factor III, tissue factor"
+F5	2153	Coagulation factor V
+FAAH	2166	Fatty acid amide hydrolase
+FABP1	2168	Fatty acid binding protein 1
+FABP4	2167	Fatty acid binding protein 4
+FADS1	3992	Fatty acid desaturase 1
+FADS2	9415	Fatty acid desaturase 2
+FAS	355	Fas cell surface death receptor
+FASN	2194	Fatty acid synthase
+FBLN1	2192	Fibulin 1
+FBN1	2200	Fibrillin 1
+FBN3	84467	Fibrillin 3
+FCGR1A	2209	Fc fragment of IgG receptor Ia
+FEM1A	55527	Fem-1 homolog A
+FEM1B	10116	Fem-1 homolog B
+FGA	2243	Fibrinogen alpha chain
+FGB	2244	Fibrinogen beta chain
+FGF12	2257	Fibroblast growth factor 12
+FGF13	2258	Fibroblast growth factor 13
+FGG	2266	Fibrinogen gamma chain
+FLNA	2316	Filamin A
+FLOT1	10211	Flotillin 1
+FLT1	2321	Fms related receptor tyrosine kinase 1
+FMR1	2332	FMRP translational regulator 1
+FNDC5	252995	Fibronectin type III domain containing 5
+FOS	2353	"Fos proto-oncogene, AP-1 transcription factor subunit"
+FOXA2	3170	Forkhead box A2
+FOXO1	2308	Forkhead box O1
+FOXO3	2309	Forkhead box O3
+FSHB	2488	Follicle stimulating hormone subunit beta
+FSHR	2492	Follicle stimulating hormone receptor
+FST	10468	Follistatin
+FTO	79068	FTO alpha-ketoglutarate dependent dioxygenase
+FUBP1	8880	Far upstream element binding protein 1
+FZD3	7976	Frizzled class receptor 3
+FZD5	7855	Frizzled class receptor 5
+GAS5	60674	Growth arrest specific 5
+GATA4	2626	GATA binding protein 4
+GATA6	2627	GATA binding protein 6
+GC	2638	GC vitamin D binding protein
+GCG	2641	Glucagon
+GDF9	2661	Growth differentiation factor 9
+GDI1	2664	GDP dissociation inhibitor 1
+GH1	2688	Growth hormone 1
+GHR	2690	Growth hormone receptor
+GHRH	2691	Growth hormone releasing hormone
+GHRL	51738	Ghrelin and obestatin prepropeptide
+GIP	2695	Gastric inhibitory polypeptide
+GJA4	2701	Gap junction protein alpha 4
+GLP1R	2740	Glucagon like peptide 1 receptor
+GNAQ	2776	G protein subunit alpha q
+GNRH1	2796	Gonadotropin releasing hormone 1
+GNRHR	2798	Gonadotropin releasing hormone receptor
+GPC4	2239	Glypican 4
+GPER1	2852	G protein-coupled estrogen receptor 1
+GPT	2875	Glutamic--pyruvic transaminase
+GRHPR	9380	Glyoxylate and hydroxypyruvate reductase
+GSK3B	2932	Glycogen synthase kinase 3 beta
+GSTA1	2938	Glutathione S-transferase alpha 1
+GSTM1	2944	Glutathione S-transferase mu 1
+GSTM3	2947	Glutathione S-transferase mu 3
+GSTP1	2950	Glutathione S-transferase pi 1
+GSTT1	2952	Glutathione S-transferase theta 1
+GYS2	2998	Glycogen synthase 2
+GZMB	3002	Granzyme B
+H6PD	9563	Hexose-6-phosphate dehydrogenase/glucose 1-dehydrogenase
+HAMP	57817	Hepcidin antimicrobial peptide
+HAPLN1	1404	Hyaluronan and proteoglycan link protein 1
+HDAC3	8841	Histone deacetylase 3
+HFE	3077	Homeostatic iron regulator
+HIF1A	3091	Hypoxia inducible factor 1 subunit alpha
+HLA-A	3105	"Major histocompatibility complex, class I, A"
+HLA-DQA1	3117	"Major histocompatibility complex, class II, DQ alpha 1"
+HLA-DRB1	3123	"Major histocompatibility complex, class II, DR beta 1"
+HMGA2	8091	High mobility group AT-hook 2
+HMGB1	3146	High mobility group box 1
+HMGB2	3148	High mobility group box 2
+HMGCR	3156	3-hydroxy-3-methylglutaryl-CoA reductase
+HMOX1	3162	Heme oxygenase 1
+HNF1A	6927	HNF1 homeobox A
+HNRNPD	3184	Heterogeneous nuclear ribonucleoprotein D
+HOXA10	3206	Homeobox A10
+HP	3240	Haptoglobin
+HSD11B1	3290	Hydroxysteroid 11-beta dehydrogenase 1
+HSD17B1	3292	Hydroxysteroid 17-beta dehydrogenase 1
+HSD17B13	345275	Hydroxysteroid 17-beta dehydrogenase 13
+HSD17B6	8630	Hydroxysteroid 17-beta dehydrogenase 6
+HSD3B1	3283	"Hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1"
+HSD3B2	3284	"Hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2"
+HSD3B7	80270	"Hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7"
+HSD3BP4	128102	"Hydroxy-delta-5-steroid dehydrogenase, 3 beta, pseudogene 4"
+HSP90B1	7184	Heat shock protein 90 beta family member 1
+HSPA5	3309	Heat shock protein family A (Hsp70) member 5
+HSPA6	3310	Heat shock protein family A (Hsp70) member 6
+HSPA7	3311	Heat shock protein family A (Hsp70) member 7
+HSPB1	3315	Heat shock protein family B (small) member 1
+HSPE1	3336	Heat shock protein family E (Hsp10) member 1
+HTR2C	3358	5-hydroxytryptamine receptor 2C
+IAPP	3375	Islet amyloid polypeptide
+ICAM1	3383	Intercellular adhesion molecule 1
+IDE	3416	Insulin degrading enzyme
+IFNG	3458	Interferon gamma
+IGF1	3479	Insulin like growth factor 1
+IGF1R	3480	Insulin like growth factor 1 receptor
+IGF2	3481	Insulin like growth factor 2
+IGF2R	3482	Insulin like growth factor 2 receptor
+IGFBP1	3484	Insulin like growth factor binding protein 1
+IGFBP2	3485	Insulin like growth factor binding protein 2
+IGFBP3	3486	Insulin like growth factor binding protein 3
+IGFBP4	3487	Insulin like growth factor binding protein 4
+IL10	3586	Interleukin 10
+IL12A	3592	Interleukin 12A
+IL17A	3605	Interleukin 17A
+IL18	3606	Interleukin 18
+IL1A	3552	Interleukin 1 alpha
+IL1B	3553	Interleukin 1 beta
+IL1RN	3557	Interleukin 1 receptor antagonist
+IL2	3558	Interleukin 2
+IL23A	51561	Interleukin 23 subunit alpha
+IL27	246778	Interleukin 27
+IL33	90865	Interleukin 33
+IL37	27178	Interleukin 37
+IL5	3567	Interleukin 5
+IL6	3569	Interleukin 6
+IL6ST	3572	Interleukin 6 signal transducer
+INHA	3623	Inhibin subunit alpha
+INHBA	3624	Inhibin subunit beta A
+INHBB	3625	Inhibin subunit beta B
+INS	3630	Insulin
+INSL3	3640	Insulin like 3
+INSL4	3641	Insulin like 4
+INSL6	11172	Insulin like 6
+INSR	3643	Insulin receptor
+IRS1	3667	Insulin receptor substrate 1
+IRS2	8660	Insulin receptor substrate 2
+IRS4	8471	Insulin receptor substrate 4
+ITGAM	3684	Integrin subunit alpha M
+ITLN1	55600	Intelectin 1
+JUN	3725	"Jun proto-oncogene, AP-1 transcription factor subunit"
+JUNB	3726	"JunB proto-oncogene, AP-1 transcription factor subunit"
+KCNQ1	3784	Potassium voltage-gated channel subfamily Q member 1
+KEAP1	9817	Kelch like ECH associated protein 1
+KHDRBS3	10656	"KH RNA binding domain containing, signal transduction associated 3"
+KISS1	3814	KiSS-1 metastasis suppressor
+KL	9365	Klotho
+KLK3	354	Kallikrein related peptidase 3
+KNG1	3827	Kininogen 1
+KRR1	11103	KRR1 small subunit processome component homolog
+KRT18	3875	Keratin 18
+KRT8	3856	Keratin 8
+LAP	7939	Laryngeal adductor paralysis
+LBP	3929	Lipopolysaccharide binding protein
+LCN2	3934	Lipocalin 2
+LDLR	3949	Low density lipoprotein receptor
+LEP	3952	Leptin
+LEPQTL1	7839	"Leptin, serum levels of"
+LEPR	3953	Leptin receptor
+LHB	3972	Luteinizing hormone subunit beta
+LHCGR	3973	Luteinizing hormone/choriogonadotropin receptor
+LIF	3976	LIF interleukin 6 family cytokine
+LIPC	3990	"Lipase C, hepatic type"
+LIPE	3991	"Lipase E, hormone sensitive type"
+LMNA	4000	Lamin A/C
+LMNB2	84823	Lamin B2
+LOX	4015	Lysyl oxidase
+LPA	4018	Lipoprotein(a)
+LPIN1	23175	Lipin 1
+LPL	4023	Lipoprotein lipase
+LPO	4025	Lactoperoxidase
+LRP5	4041	LDL receptor related protein 5
+LUM	4060	Lumican
+LY6E	4061	Lymphocyte antigen 6 family member E
+LYN	4067	"LYN proto-oncogene, Src family tyrosine kinase"
+MAK	4117	Male germ cell associated kinase
+MAOA	4128	Monoamine oxidase A
+MAP3K4	4216	Mitogen-activated protein kinase kinase kinase 4
+MAPK1	5594	Mitogen-activated protein kinase 1
+MAPK14	1432	Mitogen-activated protein kinase 14
+MAPK3	5595	Mitogen-activated protein kinase 3
+MAPK9	5601	Mitogen-activated protein kinase 9
+MAPRE1	22919	Microtubule associated protein RP/EB family member 1
+MCF2L2	23101	MCF.2 cell line derived transforming sequence-like 2
+MDH2	4191	Malate dehydrogenase 2
+MDM2	4193	MDM2 proto-oncogene
+MEP1A	4224	Meprin A subunit alpha
+MIF	4282	Macrophage migration inhibitory factor
+MKNK2	2872	MAPK interacting serine/threonine kinase 2
+MMP1	4312	Matrix metallopeptidase 1
+MMP2	4313	Matrix metallopeptidase 2
+MMP25	64386	Matrix metallopeptidase 25
+MMP26	56547	Matrix metallopeptidase 26
+MMP3	4314	Matrix metallopeptidase 3
+MMP8	4317	Matrix metallopeptidase 8
+MMP9	4318	Matrix metallopeptidase 9
+MRO	83876	Maestro
+MTCH2	23788	Mitochondrial carrier 2
+MTHFR	4524	Methylenetetrahydrofolate reductase
+MTNR1A	4543	Melatonin receptor 1A
+MTNR1B	4544	Melatonin receptor 1B
+MTR	4548	5-methyltetrahydrofolate-homocysteine methyltransferase
+MTRF1L	54516	Mitochondrial translational release factor 1 like
+MUC1	4582	"Mucin 1, cell surface associated"
+MUC5AC	4586	"Mucin 5AC, oligomeric mucus/gel-forming"
+MYH11	4629	Myosin heavy chain 11
+MYH9	4627	Myosin heavy chain 9
+NAMPT	10135	Nicotinamide phosphoribosyltransferase
+NCOR1	9611	Nuclear receptor corepressor 1
+NDST1	3340	N-deacetylase and N-sulfotransferase 1
+NEIL2	252969	Nei like DNA glycosylase 2
+NFE2L2	4780	"Nuclear factor, erythroid 2 like 2"
+NFKB1	4790	Nuclear factor kappa B subunit 1
+NGF	4803	Nerve growth factor
+NID2	22795	Nidogen 2
+NOS2	4843	Nitric oxide synthase 2
+NPPB	4879	Natriuretic peptide B
+NPR 3.00	4883	Natriuretic peptide receptor 3
+NPY	4852	Neuropeptide Y
+NQO1	1728	NAD(P)H quinone dehydrogenase 1
+NR3C1	2908	Nuclear receptor subfamily 3 group C member 1
+NR4A1	3164	Nuclear receptor subfamily 4 group A member 1
+NR5A1	2516	Nuclear receptor subfamily 5 group A member 1
+NUCB2	4925	Nucleobindin 2
+OAZ3	51686	Ornithine decarboxylase antizyme 3
+OGT	8473	O-linked N-acetylglucosamine (GlcNAc) transferase
+OMD	4958	Osteomodulin
+ORM1	5004	Orosomucoid 1
+OXT	5020	Oxytocin/neurophysin I prepropeptide
+PAFAH1B1	5048	Platelet activating factor acetylhydrolase 1b regulatory subunit 1
+PAX6	5080	Paired box 6
+PCOS1	5120	Polycystic ovary syndrome 1
+PCSK9	255738	Proprotein convertase subtilisin/kexin type 9
+PCYOX1	51449	Prenylcysteine oxidase 1
+PDCD4	27250	Programmed cell death 4
+PDE3B	5140	Phosphodiesterase 3B
+PDGFRA	5156	Platelet derived growth factor receptor alpha
+PECAM1	5175	Platelet and endothelial cell adhesion molecule 1
+PEPD	5184	Peptidase D
+PEX3	8504	Peroxisomal biogenesis factor 3
+PF4	5196	Platelet factor 4
+PGR	5241	Progesterone receptor
+PGRMC1	10857	Progesterone receptor membrane component 1
+PI3	5266	Peptidase inhibitor 3
+PIBF1	10464	Progesterone immunomodulatory binding factor 1
+PIK3CA	5290	"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha"
+PIK3CG	5294	"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma"
+PIK3R1	5295	Phosphoinositide-3-kinase regulatory subunit 1
+PIN1	5300	"Peptidylprolyl cis/trans isomerase, NIMA-interacting 1"
+PKD1	5310	"Polycystin 1, transient receptor potential channel interacting"
+PKM	5315	Pyruvate kinase M1/2
+PKN2	5586	Protein kinase N2
+PLA2G7	7941	Phospholipase A2 group VII
+PLAT	5327	"Plasminogen activator, tissue type"
+PLCB2	5330	Phospholipase C beta 2
+PLCB3	5331	Phospholipase C beta 3
+PLCZ1	89869	Phospholipase C zeta 1
+PLGRKT	55848	Plasminogen receptor with a C-terminal lysine
+PNPLA2	57104	Patatin like phospholipase domain containing 2
+POLD3	10714	"DNA polymerase delta 3, accessory subunit"
+POLE3	54107	"DNA polymerase epsilon 3, accessory subunit"
+POLR1B	84172	RNA polymerase I subunit B
+POMC	5443	Proopiomelanocortin
+PON1	5444	Paraoxonase 1
+POR	5447	Cytochrome p450 oxidoreductase
+PPARD	5467	Peroxisome proliferator activated receptor delta
+PPARG	5468	Peroxisome proliferator activated receptor gamma
+PPARGC1A	10891	PPARG coactivator 1 alpha
+PPP1R3A	5506	Protein phosphatase 1 regulatory subunit 3A
+PRDX1	5052	Peroxiredoxin 1
+PRDX2	7001	Peroxiredoxin 2
+PRL	5617	Prolactin
+PROK1	84432	Prokineticin 1
+PROK2	60675	Prokineticin 2
+PTEN	5728	Phosphatase and tensin homolog
+PTGS2	5743	Prostaglandin-endoperoxide synthase 2
+PTH	5741	Parathyroid hormone
+PTPRC	5788	Protein tyrosine phosphatase receptor type C
+PTX3	5806	Pentraxin 3
+PWRN2	791115	Prader-Willi region non-protein coding RNA 2
+PYY	5697	Peptide YY
+RAB5B	5869	"RAB5B, member RAS oncogene family"
+RAD50	10111	RAD50 double strand break repair protein
+RARRES2	5919	Retinoic acid receptor responder 2
+RASGRP1	10125	RAS guanyl releasing protein 1
+RASGRP2	10235	RAS guanyl releasing protein 2
+RBP4	5950	Retinol binding protein 4
+REN	5972	Renin
+RETN	56729	Resistin
+RHOG	391	Ras homolog family member G
+RHOQ	23433	Ras homolog family member Q
+RLN1	6013	Relaxin 1
+RLN2	6019	Relaxin 2
+RPS6KA1	6195	Ribosomal protein S6 kinase A1
+RUNX2	860	RUNX family transcription factor 2
+S100A12	6283	S100 calcium binding protein A12
+S100A9	6280	S100 calcium binding protein A9
+SCD	6319	Stearoyl-CoA desaturase
+SERPINA1	5265	Serpin family A member 1
+SERPINA12	145264	Serpin family A member 12
+SERPINC1	462	Serpin family C member 1
+SERPINE1	5054	Serpin family E member 1
+SERPINF1	5176	Serpin family F member 1
+SERPINH1	871	Serpin family H member 1
+SET	6418	SET nuclear proto-oncogene
+SFRP5	6425	Secreted frizzled related protein 5
+SGTA	6449	Small glutamine rich tetratricopeptide repeat containing alpha
+SH2B3	10019	SH2B adaptor protein 3
+SHBG	6462	Sex hormone binding globulin
+SIRT1	23411	Sirtuin 1
+SLC12A8	84561	Solute carrier family 12 member 8
+SLC18A2	6571	Solute carrier family 18 member A2
+SLC2A1	6513	Solute carrier family 2 member 1
+SLC2A4	6517	Solute carrier family 2 member 4
+SLC30A8	169026	Solute carrier family 30 member 8
+SLC7A10	56301	Solute carrier family 7 member 10
+SMC3	9126	Structural maintenance of chromosomes 3
+SOCS3	9021	Suppressor of cytokine signaling 3
+SOD1	6647	Superoxide dismutase 1
+SOD2	6648	Superoxide dismutase 2
+SORBS1	10580	Sorbin and SH3 domain containing 1
+SORCS1	114815	Sortilin related VPS10 domain containing receptor 1
+SPP1	6696	Secreted phosphoprotein 1
+SPTLC2	9517	Serine palmitoyltransferase long chain base subunit 2
+SQSTM1	8878	Sequestosome 1
+SRA1	10011	Steroid receptor RNA activator 1
+SRD5A1	6715	Steroid 5 alpha-reductase 1
+SRD5A2	6716	Steroid 5 alpha-reductase 2
+SREBF1	6720	Sterol regulatory element binding transcription factor 1
+SRF	6722	Serum response factor
+SST	6750	Somatostatin
+STAR	6770	Steroidogenic acute regulatory protein
+STAT3	6774	Signal transducer and activator of transcription 3
+STK11	6794	Serine/threonine kinase 11
+STS	412	Steroid sulfatase
+STXBP1	6812	Syntaxin binding protein 1
+SULT2A1	6822	Sulfotransferase family 2A member 1
+SUMO1P1	391257	SUMO1 pseudogene 1
+SUOX	6821	Sulfite oxidase
+SVEP1	79987	"Sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1"
+TACR3	6870	Tachykinin receptor 3
+TAGLN	6876	Transgelin
+TBC1D4	9882	TBC1 domain family member 4
+TCF4	6925	Transcription factor 4
+TCF7L2	6934	Transcription factor 7 like 2
+TF	7018	Transferrin
+TGFB1	7040	Transforming growth factor beta 1
+TGFB2	7042	Transforming growth factor beta 2
+THADA	63892	THADA armadillo repeat containing
+THBS1	7057	Thrombospondin 1
+TIMP1	7076	TIMP metallopeptidase inhibitor 1
+TLR2	7097	Toll like receptor 2
+TLR8	51311	Toll like receptor 8
+TM4SF4	7104	Transmembrane 4 L six family member 4
+TMEM150B	284417	Transmembrane protein 150B
+TNF	7124	Tumor necrosis factor
+TNFRSF11B	4982	TNF receptor superfamily member 11b
+TNFRSF1A	7132	TNF receptor superfamily member 1A
+TNFRSF1B	7133	TNF receptor superfamily member 1B
+TNFRSF25	8718	TNF receptor superfamily member 25
+TNIK	23043	TRAF2 and NCK interacting kinase
+TOX3	27324	TOX high mobility group box family member 3
+TP53	7157	Tumor protein p53
+TPI1	7167	Triosephosphate isomerase 1
+TPO	7173	Thyroid peroxidase
+TPST1	8460	Tyrosylprotein sulfotransferase 1
+TRNL1	4567	TRNA
+TTR	7276	Transthyretin
+UCN2	90226	Urocortin 2
+UCN3	114131	Urocortin 3
+UCP2	7351	Uncoupling protein 2
+UGP2	7360	UDP-glucose pyrophosphorylase 2
+UGT1A1	54658	UDP glucuronosyltransferase family 1 member A1
+VDR	7421	Vitamin D receptor
+VEGFA	7422	Vascular endothelial growth factor A
+VEGFB	7423	Vascular endothelial growth factor B
+VIM	7431	Vimentin
+WNT3	7473	Wnt family member 3
+WNT5A	7474	Wnt family member 5A
+WNT7A	7476	Wnt family member 7A
+WNT8B	7479	Wnt family member 8B
+WT1	7490	WT1 transcription factor
+XDH	7498	Xanthine dehydrogenase
+XPA	7507	"XPA, DNA damage recognition and repair factor"
+YAP1	10413	Yes1 associated transcriptional regulator
+YWHAQ	10971	Tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta
+ZBTB16	7704	Zinc finger and BTB domain containing 16
+ZNF410	57862	Zinc finger protein 410
+ZP4	57829	Zona pellucida glycoprotein 4
+MIR124-3	406909	MicroRNA 124-3
+MIR126	406913	MicroRNA 126
+MIR128-1	406915	MicroRNA 128-1
+MIR145	406937	MicroRNA 145
+MIR146A	406938	MicroRNA 146a
+MIR155	406947	MicroRNA 155
+MIR16-2	406951	MicroRNA 16-2
+MIR19B1	406980	MicroRNA 19b-1
+MIR222	407007	MicroRNA 222
+MIR223	407008	MicroRNA 223
+MIR23A	407010	MicroRNA 23a
+MIR23B	407011	MicroRNA 23b
+MIR27A	407018	MicroRNA 27a
+MIR29A	407021	MicroRNA 29a
+MIR3188	100422833	MicroRNA 3188
+MIR320A	407037	MicroRNA 320a
+MIR323A	442897	MicroRNA 323a
+MIR3665	100500861	MicroRNA 3665
+MIR429	554210	MicroRNA 429
+MIR4463	100616389	MicroRNA 4463
+MIR483	619552	MicroRNA 483
+MIR486-2	102465696	MicroRNA 486-2
+MIR5706	100847085	MicroRNA 5706
+MIR574	693159	MicroRNA 574
+MIR592	693177	MicroRNA 592
+MIR638	693223	MicroRNA 638
+MIR93	407050	MicroRNA 93
+MIR99A	407055	MicroRNA 99a
+MIRLET7I	406891	MicroRNA let-7i
